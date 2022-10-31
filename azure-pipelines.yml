@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'arm-vscode'
     location: 'UK South'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/AlbertPlumstead/AzureTesting/main/testing/ArmTemplate.json?token=GHSAT0AAAAAAB2TH4D5ICYK6PBZ4PVDF3JCY273KMQ'
+    csmFileLink: 'https://raw.githubusercontent.com/AlbertPlumstead/AzureTesting/main/testing/ArmTemplate.json?token=GHSAT0AAAAAAB2TH4D4AHTX2C7X2HUPNVCMY275DVQ'
     overrideParameters: '-projectName ProjectSecond'
     deploymentMode: 'Incremental'
     deploymentName: 'DeploymentPipelineTemplate'
