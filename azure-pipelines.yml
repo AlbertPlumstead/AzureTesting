@@ -20,7 +20,6 @@ steps:
     location: 'UK South'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/AlbertPlumstead/AzureTesting/main/armtemplate.json'
-    overrideParameters: '-projectName ProjectSecond'
     deploymentMode: 'Incremental'
     deploymentName: 'DeploymentPipelineTemplate'
   displayName: 'Run a one-line script'
